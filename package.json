@@ -1,0 +1,27 @@
+{
+  "name": "vue3-use-pagination",
+  "version": "1.0.0",
+  "description": "pagination hooks in vue3",
+  "author": "Aierse <dbsgur2008@gmail.com>",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "vue": "^3.2.13",
+    "vue3-uuid": "^1.0.0"
+  },
+  "main": "src/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aierse/vue3-use-pagination"
+  },
+  "bugs": "https://github.com/Aierse/vue3-use-pagination/issues",
+  "license": "MIT",
+  "keywords": [
+    "vue3",
+    "hook",
+    "pagination"
+  ]
+}
